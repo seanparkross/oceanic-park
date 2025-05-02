@@ -68,3 +68,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - README
+
+## [0.0.10] - 2025-05-02
+
+### Changed
+
+- Updated json formatting for modern VSCode

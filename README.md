@@ -1,6 +1,6 @@
 # Oceanic Park VSCode Theme
 
-## The best oceanic style dark theme for VSCode, Cursor, and more.
+The best oceanic style dark theme for VSCode, Cursor, and more.
 
 **Enjoy!**
 
