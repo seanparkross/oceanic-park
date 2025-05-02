@@ -4,7 +4,7 @@
   "publisher": "Parklife",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Spark3000/Oceanic-Park"
+    "url": "https://github.com/seanparkross/oceanic-park"
   },
   "author": "Sean Park <sean@parklife.io>",
   "description": "The best oceanic style dark theme for VSCode, Cursor, and more.",

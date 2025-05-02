@@ -1,5 +1,6 @@
 # Oceanic Park VSCode Theme
-## An improved combination of Cobalt Next, Cobalt2 and Oceanic Next.
+
+## The best oceanic style dark theme for VSCode, Cursor, and more.
 
 **Enjoy!**
 
