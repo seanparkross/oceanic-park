@@ -8,7 +8,7 @@
   },
   "author": "Sean Park <sean@parklife.io>",
   "description": "The best oceanic style dark theme for VSCode, Cursor, and more.",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.33.0"
   },
@@ -29,7 +29,10 @@
     "dark theme",
     "oceanic next",
     "cobalt 2",
-    "oceanic park"
+    "oceanic park",
+    "dark",
+    "blue",
+    "aquamarine"
   ],
   "galleryBanner": {
     "color": "#17242b",
