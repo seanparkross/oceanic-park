@@ -74,3 +74,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Updated json formatting for modern VSCode
+
+## [0.0.11] - 2025-05-07
+
+### Changed
+
+- Pop the sidebar text color a bit more

@@ -8,7 +8,7 @@
   },
   "author": "Sean Park <sean@parklife.io>",
   "description": "The best oceanic style dark theme for VSCode, Cursor, and more.",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "engines": {
     "vscode": "^1.33.0"
   },
