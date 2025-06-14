@@ -80,3 +80,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Pop the sidebar text color a bit more
+
+## [0.0.12] - 2025-06-14
+
+### Changed
+
+- Nuke the inline search background ☢️

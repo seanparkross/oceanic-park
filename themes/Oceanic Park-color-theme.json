@@ -1830,7 +1830,7 @@
     "editor.selectionHighlightBorder": "#5fb3b3",
     "editor.findMatchBackground": "#343d46",
     "editor.findMatchBorder": "#5fb3b3ee",
-    "editor.findMatchHighlightBackground": "#5fb3b370",
+    "editor.findMatchHighlightBackground": "#5fb3b300",
     "editor.findMatchHighlightBorder": "#5fb3b3ee",
     "editor.findRangeHighlightBackground": "#5fb3b370",
     "editor.findRangeHighlightBorder": "#ffffff00",
