@@ -6,9 +6,9 @@
     "type": "git",
     "url": "https://github.com/seanparkross/oceanic-park"
   },
-  "author": "Sean Park <sean@parklife.io>",
-  "description": "The best oceanic style dark theme for VSCode, Cursor, and more.",
-  "version": "0.0.12",
+  "author": "Sean Park <hello@parklife-inc.com>",
+  "description": "A beautiful oceanic-inspired dark theme for Visual Studio Code and Cursor. Features ocean blue colors, aquamarine highlights, and excellent syntax highlighting for a calm coding experience.",
+  "version": "0.0.13",
   "engines": {
     "vscode": "^1.33.0"
   },
@@ -26,13 +26,26 @@
   },
   "keywords": [
     "theme",
+    "color-theme",
     "dark theme",
-    "oceanic next",
-    "cobalt 2",
-    "oceanic park",
     "dark",
+    "oceanic",
+    "oceanic next",
+    "oceanic park", 
+    "park",
+    "cobalt 2",
     "blue",
-    "aquamarine"
+    "aquamarine",
+    "sea",
+    "ocean",
+    "water",
+    "teal",
+    "cyan",
+    "vscode",
+    "cursor",
+    "editor",
+    "syntax",
+    "highlighting"
   ],
   "galleryBanner": {
     "color": "#17242b",
