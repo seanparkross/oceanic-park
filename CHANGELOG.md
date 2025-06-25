@@ -86,3 +86,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Nuke the inline search background ☢️
+
+## [0.0.13] - 2025-06-25
+
+### Changed
+
+- Update the README.md and package keywords so that hopefully searching for it works. 🙄
