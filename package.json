@@ -8,7 +8,7 @@
   },
   "author": "Sean Park <hello@parklife-inc.com>",
   "description": "A beautiful oceanic-inspired dark theme for Visual Studio Code and Cursor. Features ocean blue colors, aquamarine highlights, and excellent syntax highlighting for a calm coding experience.",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "engines": {
     "vscode": "^1.33.0"
   },

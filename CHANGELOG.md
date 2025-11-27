@@ -92,3 +92,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Update the README.md and package keywords so that hopefully searching for it works. 🙄
+
+## [0.0.14] - 2025-11-27
+
+### Changed
+
+- Dim the code lens foreground color 🕯️
