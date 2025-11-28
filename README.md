@@ -14,21 +14,23 @@ A beautiful oceanic-inspired dark theme for Visual Studio Code and Cursor IDE.
 
 ## Installation
 
-### Via VS Code Marketplace
+### Via Marketplace
 1. Open VS Code
 2. Go to Extensions (Ctrl+Shift+X)
 3. Search for "Oceanic Park"
 4. Click Install
 
-### Via Command Palette
-1. Open Command Palette (Ctrl+Shift+P)
-2. Type: `ext install Parklife.oceanic-park`
+### For Cursor
 
-### Via Cursor
-1. Open Cursor
-2. Go to Extensions
-3. Search for "Oceanic Park" 
-4. Click Install
+Unfortunately Cursor hasn't indexed this theme. To install you can download the VSIX directly. 
+
+1.	Download the VSIX using this URL:
+https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Parklife/vsextensions/oceanic-park/latest/vspackage
+2.	Install in Cursor:
+    ▪	Open Cursor	
+    ▪	Press ⁠Cmd+Shift+P (Mac) or ⁠Ctrl+Shift+P (Windows/Linux)	
+    ▪	Type ⁠Extensions: Install from VSIX...	
+    ▪	Select the downloaded ⁠.vsix file
 
 ## Screenshots
 
