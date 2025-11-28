@@ -98,3 +98,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Dim the code lens foreground color 🕯️
+
+## [0.0.15] - 2025-11-28
+
+### Changed
+
+- Update README.md for Cursor installation
